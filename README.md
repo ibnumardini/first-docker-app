@@ -1,6 +1,6 @@
 # First Docker App 😃.
 
-My process of learning docker.
+a simple api to get data users in .env with go language & running using docker.
 
 ## Cooking 🍳
 

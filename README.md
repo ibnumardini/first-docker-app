@@ -31,4 +31,4 @@ http://localhost:1234
 
 ## Learning Resources 📚
 - [ProgrammerZamanNow (Eko Kurniawan Khannedy)](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
-- [DuckDuckGo](hhttps://duckduckgo.com/?q=learn+docker)
+- [DuckDuckGo](https://duckduckgo.com/?q=learn+docker)
